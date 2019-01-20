@@ -1,0 +1,70 @@
+body {
+    background-color: lemonchiffon;
+    background-image: url("../images/snoopy.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+  }
+
+html{
+  height: 100%;
+}
+
+#title {
+  width: 960px;
+}
+
+h1 {
+  font-family: monospace;
+  font-size: 135px;
+  color: dodgerblue;
+  float: left;
+  margin-top: 140px;
+  margin-bottom: 280px;
+}
+
+
+#trivia {
+  margin-top: 100px;
+  font-family: monospace;
+  font-size: 15px;
+  float: center;
+}
+
+
+h2 h3 {
+  font-family: monospace;
+  font-size: 15px;
+  color: dodgerblue;
+  float: left;
+}
+
+
+button {
+  background: rgb(205, 239, 252);
+  border: 10px solid dodgerblue;
+  border-radius: 8px;
+  display: block;
+  width: 150px;
+  height: 60px;
+  margin: 10px auto 0;
+  font-family: monospace;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+
+#start {
+  background: rgb(205, 239, 252);
+  border: 10px solid dodgerblue;
+  border-radius: 8px;
+  float: center;
+}
+
+#submit {
+  background: rgb(205, 239, 252);
+  border: 10px solid dodgerblue;
+  border-radius: 8px;
+}
+
+
